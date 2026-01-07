@@ -1,0 +1,7 @@
+{
+  "name": "DuoThink",
+  "description": "A sophisticated AI debate coach designed to sharpen logic through structured argumentation and real-time 'blind spot' detection for logical fallacies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
